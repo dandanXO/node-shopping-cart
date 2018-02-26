@@ -23,3 +23,8 @@ npm install
 # serve start at localhost:3000
 npm start
 ```
+## Preview 
+
+![Imgur](https://i.imgur.com/SDab59E.png)
+![Imgur](https://i.imgur.com/4hp2u4N.png)
+![Imgur](https://i.imgur.com/VFH64HJ.png)
